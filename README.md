@@ -18,7 +18,7 @@ In the application scenario, it is the rest API where the seller and the buyer a
     Run the following command to start the application:
     mvn spring-boot:run
     
-    By default the application will run at http://localhost:8080
+    By default the application will run at = http://localhost:8080
 
 
 
